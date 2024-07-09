@@ -153,3 +153,12 @@
     margin-left: 126px;
     margin-top: 126px;
 }
+h4{
+    padding: 20px;
+    margin:0 auto;
+    text-align: center;
+}
+.btn:hover{
+    color:aqua;
+    cursor: pointer;
+}
