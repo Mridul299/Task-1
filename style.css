@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner{
+    width:1320px;
+    margin: 50px auto 120px ;
+    border-radius: 16px;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("./assets/images/Banner\ Image.png");
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+
+
+
+
+}
+.banner-contain{
+    width: 632px;
+    height: 246px;
+    text-align: center;
+  
+}
+.banner-title{
+    font-size: 32px;
+    color: rgba(255, 255, 255, 1);
+
+
+}
+.banner-sub-title{
+    font-size: 72px;
+    font-weight: bolder;
+    margin-top: 16px;
+    color: rgba(255, 255, 255, 1);
+}
+/* dis-section */
+
+
+.dis-container{
+    height:802px ;
+    /* width: 802.9px; */
+    margin: 120px 398px;
+    /* border: 1px solid yellow; */
+    margin: 0 auto;
+
+}
+.dis-persent{
+    height: 107px;
+    /* width: 383px; */
+    /* border: 1px solid yellow; */
+}
+.dis-description{
+    text-align: center;
+    margin-top: 48px;
+    /* border: 1px solid yellow; */
+
+}
+.dis{
+    font-size:88px;
+    font-weight: bold;
+    text-align: center;
+    color:rgba(255, 0, 0, 1);
+    /* border: 1px solid yellow; */
+
+}
+.dis-title{
+    font-size:24px ;
+    margin: 16px 0px;
+
+
+}
+.dis-sub-title{
+    font-size: 48px;
+    font-weight: bold;
+    /* border: 1px solid rgb(0, 0, 0); */
+    margin-bottom:25px;
+}
+.dis-image{
+    height: 500px;
+    width: 802.9px;
+    background-image: url("./assets/images/New\ Year\ Photo.png");
+    background-position: center;
+    background-size: cover;
+    /* border: 1px solid rgb(0, 0, 0); */
+    margin:0 auto;
+
+}
+
+/* sec-banner */
+.sec-banner{
+    width: 1320px;
+    height: 600px;
+    /* border: 1px solid green; */
+    display: flex;
+    margin: 82px auto 158px;
+    background-image: url("./assets/images/Vectorrr.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.sec-banner-contain{
+    /* border: 1px solid red; */
+    width: 697px;
+}
+.sec-title{
+    font-size: 64px;
+    font-weight: bold;
+    width: 500px;
+    height:176px;
+    /* border: 1px solid blueviolet; */
+    color:rgba(255, 255, 255, 1) ;
+
+
+}
+.sec-description{
+    /* border: 1px solid yellow; */
+    width: 697px;
+    height: 60px;
+    font-size: 18px;
+    margin-top:24px;
+    color: rgba(255, 255, 255, 0.8);
+}
+.sec-banner-btn{
+    margin-top:48px;
+    margin-left: 32px;
+    
+}
+.btn{
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+    border: none;
+    background: transparent;
+}
+.sec-image{
+    width: 319px;
+    height: 465px;
+    /* border: 1px solid blue; */
+    margin-top:68px;
+    margin-left:39px;
+    background-image: url("./assets/images/Group\ 70.png");
+
+}
+.sec-banner-container{
+    /* border: 1px solid navy; */
+    margin-left: 126px;
+    margin-top: 126px;
+}
